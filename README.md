@@ -1,7 +1,7 @@
 # 📘 English Janala – Assignment 006
 
 **Live Site**: [https://english-bd.netlify.app/](https://english-bd.netlify.app/)  
-**GitHub Repo**: [HasanCodeX/Project---web-b11-A6-english-janala](https://github.com/mehedi-hasan1102/Project---web-b11-A6-english-janala)
+**GitHub Repo**: [https://github.com/mehedi-hasan1102/English-Janala](https://github.com/mehedi-hasan1102/English-Janala)
 
 A fully responsive and interactive educational web application to enhance English vocabulary learning through levels, quizzes, and rich word details — built using **HTML**, **JavaScript**, **Tailwind CSS**, and **DaisyUI**.
 
@@ -96,6 +96,6 @@ Includes answers to:
 # No build step required
 # Just clone and open index.html in browser
 
-git clone https://github.com/HasanCodeX/Project---web-b11-A6-english-janala.git
-cd Project---web-b11-A6-english-janala
+git clone https://github.com/mehedi-hasan1102/English-Janala
+cd English-Janala
 open index.html
