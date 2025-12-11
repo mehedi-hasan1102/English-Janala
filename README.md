@@ -82,11 +82,6 @@ Includes answers to:
 4. **All Words**  
    `https://openapi.programming-hero.com/api/words/all`
 
----
-
-## 🖼️ Screenshots
-
-> _(Add screenshots here if you want — from your live site showing UI, modal, cards, etc.)_
 
 ---
 
